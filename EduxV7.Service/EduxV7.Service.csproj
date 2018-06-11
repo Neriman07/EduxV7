@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EduxV7.Data\EduxV7.Data.csproj" />
+    <ProjectReference Include="..\EduxV7.Repo\EduxV7.Repo.csproj" />
+  </ItemGroup>
+
+</Project>
